@@ -18,3 +18,8 @@ It also provide insights into order patterns and employee performance in handlin
 A key query identifies products with low stock levels (unitsinstock < 10), which is critical for reordering and preventing stockouts. It also identifies all discontinued products.
 Employee & Supplier Information:Queries retrieve employees based on their hire date and format their names for better readability.
 Supplier Data: The script filters suppliers by country (USA), which could be a first step in analyzing the supply chain. 
+
+Adidas US sales Analysis with Excel.
+This report provides a detailed analysis of the Adidas US sales data for the years 2020 and 2021. The primary dataset contains transactional sales records across various retailers, regions, and product categories. The total revenue generated during this period was approximately $899.76 million, with a total operating profit of $339.69 million, yielding an average operating margin of about 37.8%.
+The analysis reveals that West Gear was the top-performing retailer by a significant margin in both revenue and profit. The most lucrative product category is Men's Street Footwear, which is the highest-selling product across most retailers. Sales are distributed across three methods: In-store, Online, and Outlet, with In-store and Online sales showing the highest profitability. The West region emerges as the most significant market, contributing the largest share of both sales and profit.
+
