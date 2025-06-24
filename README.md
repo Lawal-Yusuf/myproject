@@ -9,3 +9,12 @@ For the profit margin by product category make use of pie chart to get the insig
 For the increase and decline of sale in region make use of line chart to get their trend with show the west has the highest sale .
 For the top pick of sales make use of gauge chart to visualize the sale trends.
 
+My project on northwind dataset for sql.
+This report provides a comprehensive analysis of the SQL queries contained in the file for nortwind.
+The queries aim to extract insights such as customer distribution, product inventory levels, sales performance, and employee activity. This report breaks down the valid queries by business area, explains the purpose of each, identifies and corrects the faulty queries, and provides recommendations for a more in-depth analysis.
+The SQL script investigates the following areas:
+The queries explore the geographic distribution of customers and their purchasing behavior.
+It also provide insights into order patterns and employee performance in handling sales.
+A key query identifies products with low stock levels (unitsinstock < 10), which is critical for reordering and preventing stockouts. It also identifies all discontinued products.
+Employee & Supplier Information:Queries retrieve employees based on their hire date and format their names for better readability.
+Supplier Data: The script filters suppliers by country (USA), which could be a first step in analyzing the supply chain. 
